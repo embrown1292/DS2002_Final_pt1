@@ -1,0 +1,10 @@
+When looking at the relationship between factor and time, we see that there is a pattern of exponential growth
+that occurs as time progresses, in which the pattern looks to be cubing the following number.
+
+When looking at the relationship between factor and time and pi, there seems to be an increase of the pi value
+as time increases, but then there is a dramatic drop from 4.0 from the first two minutes
+to around the value of 3.14, in which the number stabilizes at roughly for the remained of the time.
+
+When looking at the relationship between pi and factor, we see a drop once again from the 4.0 value of pi when the
+factor is small, around a value of 1, then as the the factor increases exponentially, the pi value still remains
+close to a value of 3.14.
